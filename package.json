@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "preact": "^8.5.3",
+    "preact-compat": "^3.19.0"
+  }
+}
